@@ -63,4 +63,4 @@ Completed
 
 ## Dashboard Preview
 
-![Telecom Customer Churn Dashboard](Telecom_Churn_Dashboard.png)
+![Telecom Customer Churn Dashboard](telecom_screenshot.jpg)
